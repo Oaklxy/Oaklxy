@@ -1,4 +1,6 @@
-<h1 align="center">I'm Jefferson</h1>
+<img align="center" alt="Coding" width="100%" src="https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured.png">
+
+<h1 align="center">Hi, I'm Jefferson</h1>
 <h3 align="center">Software Development and Cybersecurity</h3>
 
 <br />
@@ -7,17 +9,13 @@
 
 <br />
 
-- 🌱 I’m currently learning **Malware Development**
+- 🌱 I’m currently learning **Malware Development and Pentesting**
 
-<br />
+- 🔭 I'm interested in **Cybersecurity**
 
-- 🔭 I'm interested in **Blockchain**
-
-<br />
+- 💬 Ask me about **Web Development**
 
 - 🦀 I'd like to improve my skills in **Rust**
-
-<br />
 
 <h2 align="center"><strong>Statistics</strong></h2>
 
