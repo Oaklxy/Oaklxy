@@ -15,6 +15,8 @@
 
 - 🦀 I'd like to improve my skills in **Rust**
 
+<br />
+
 <h2 align="center"><strong>Statistics</strong></h2>
 
 <div align="center">
