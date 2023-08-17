@@ -5,8 +5,6 @@
 
 <br />
 
-<img align="right" alt="Coding" width="350" src="https://gifdb.com/images/high/green-static-background-hacking-zxdixjwjemrjnoen.gif">
-
 - 🌱 I’m currently learning **Malware Development and Pentesting**
 
 - 🔭 I'm interested in **Cybersecurity**
