@@ -39,7 +39,7 @@
 <h4 align="center"><strong>Frontend Frameworks and Tools</strong></h4>
 
 <p align="center">
-  <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-black?logo=angular&logoColor=red"></a>
+  <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-black?logo=angular&logoColor=darkred"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-black?logo=react&logoColor=blue"></a>
   <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-black?logo=redux&logoColor=pink"></a>
   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwind-css&logoColor=blue"></a>
@@ -49,7 +49,7 @@
 <h4 align="center"><strong>Backend Frameworks and Tools</strong></h4>
 
 <p align="center">
-  <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-black?logo=nestjs&logoColor=red"></a>
+  <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-black?logo=nestjs&logoColor=darkred"></a>
   <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-black?logo=graphql&logoColor=pink"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-black?logo=node.js&logoColor=darkgreen"></a>
   <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-black?logo=express&logoColor=green"></a>
@@ -61,7 +61,7 @@
 <p align="center">
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=blue"></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?logo=mongodb&logoColor=green"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=blue"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=cyan"></a>
   <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-black?logo=mariadb&logoColor=brown"></a>
 </p>
 
