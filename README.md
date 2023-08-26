@@ -49,7 +49,7 @@
 <h4 align="center"><strong>Backend Frameworks and Tools</strong></h4>
 
 <p align="center">
-  <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-black?logo=nestjs&logoColor=darkred"></a>
+  <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-black?logo=nestjs&logoColor=E0234E"></a>
   <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-black?logo=graphql&logoColor=pink"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-black?logo=node.js&logoColor=darkgreen"></a>
   <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-black?logo=express&logoColor=green"></a>
