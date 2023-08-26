@@ -29,24 +29,54 @@
 
 <h4 align="center"><strong>Programming Languages</strong></h4>
 
-<p align="center"> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-black?logo=rust&logoColor=orange"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-black?logo=python&logoColor=yellow"></a>
+</p>
 
 <h4 align="center"><strong>Frontend Frameworks and Tools</strong></h4>
 
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" alt="nextjs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-black?logo=angular&logoColor=red"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-black?logo=react&logoColor=blue"></a>
+  <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-black?logo=redux&logoColor=pink"></a>
+  <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwind-css&logoColor=blue"></a>
+  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"></a>
+</p>
 
 <h4 align="center"><strong>Backend Frameworks and Tools</strong></h4>
 
-<p align="center"> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>  </p>
+<p align="center">
+  <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-black?logo=nestjs&logoColor=red"></a>
+  <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-black?logo=graphql&logoColor=pink"></a>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-black?logo=node.js&logoColor=darkgreen"></a>
+  <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-black?logo=express&logoColor=green"></a>
+  <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-black?logo=nginx&logoColor=darkgreen"></a>
+</p>
 
 <h4 align="center"><strong>Databases</strong></h4>
 
-<p align="center"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=blue"></a>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?logo=mongodb&logoColor=green"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=blue"></a>
+  <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-black?logo=mariadb&logoColor=brown"></a>
+</p>
 
 <h4 align="center"><strong>DevOps</strong></h4>
 
-<p align="center"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-black?logo=docker&logoColor=blue"></a>
+  <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-black?logo=jenkins&logoColor=red"></a>
+  <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes&logoColor=orange"></a>
+</p>
 
 <h4 align="center"><strong>Extras</strong></h4>
 
-<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&logoColor=red"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow"></a>
+  <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-black?logo=jest&logoColor=pink"></a>
+</p>
