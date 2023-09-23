@@ -1,5 +1,3 @@
-<img align="center" alt="Coding" width="100%" src="https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured.png">
-
 <h1 align="center">Hi, I'm Jefferson</h1>
 <h3 align="center">Software Development and Cybersecurity</h3>
 
