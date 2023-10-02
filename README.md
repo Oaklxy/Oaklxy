@@ -16,9 +16,9 @@
 <h2 align="center"><strong>Statistics</strong></h2>
 
 <div align="center">
-  <img width="270" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeattt&show_icons=true&hide_border=true&locale=en&layout=compact&theme=midnight-purple" alt="yeattt" />
-  <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=yeattt&show_icons=true&locale=en&hide_border=true&theme=midnight-purple" alt="yeattt" />
-  <img width="370" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeattt&theme=midnight-purple&hide_border=true&" alt="yeattt" />
+  <img width="270" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeattt&show_icons=true&hide_border=true&locale=en&layout=compact&theme=react" alt="yeattt" />
+  <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=yeattt&show_icons=true&locale=en&hide_border=true&theme=react" alt="yeattt" />
+  <img width="370" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeattt&theme=react&hide_border=true&" alt="yeattt" />
 </div>
 
 <br />
