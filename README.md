@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 🦀 I'd like to improve my skills in **Rust**
+- 🦀 I'd like to learn **Rust**
 
 <br />
 
