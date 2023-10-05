@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Jefferson</h1>
-<h3 align="center">Software Development and Cybersecurity</h3>
+<h3 align="center">Software Development</h3>
 
 <br />
 
-- 🌱 I’m currently learning **Malware Development and Pentesting**
-
-- 🔭 I'm interested in **Cybersecurity**
+- 🔭 I'm focused on **backend** development
 
 - 💬 Ask me about **Web Development**
 
