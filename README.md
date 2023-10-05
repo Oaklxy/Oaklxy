@@ -26,10 +26,8 @@
 <h4 align="center"><strong>Programming Languages</strong></h4>
 
 <p align="center">
-  <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-black?logo=rust&logoColor=orange"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-black?logo=python&logoColor=yellow"></a>
 </p>
 
 <h4 align="center"><strong>Frontend Frameworks and Tools</strong></h4>
@@ -73,6 +71,5 @@
 
 <p align="center">
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&logoColor=red"></a>
-  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow"></a>
   <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-black?logo=jest&logoColor=pink"></a>
 </p>
