@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Jefferson</h1>
 <h3 align="center">Software Development</h3>
-
 <br />
 
 - 🔭 I'm focused on **backend** development
