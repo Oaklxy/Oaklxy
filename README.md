@@ -9,7 +9,6 @@
 - 🦀 I'd like to learn **Rust**
 
 <br />
-
 <h2 align="center"><strong>Statistics</strong></h2>
 
 <div align="center">
