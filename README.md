@@ -18,7 +18,6 @@
 </div>
 
 <br />
-
 <h2 align="center"><strong>Techonologies</strong></h2>
 
 <h4 align="center"><strong>Programming Languages</strong></h4>
