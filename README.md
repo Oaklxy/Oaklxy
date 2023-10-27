@@ -66,6 +66,6 @@
 <h4 align="center"><strong>Extras</strong></h4>
 
 <p align="center">
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&logoColor=red"></a>
-  <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-black?logo=jest&logoColor=pink"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&logoColor=E84D31"></a>
+  <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-black?logo=jest&logoColor=944159"></a>
 </p>
