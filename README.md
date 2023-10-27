@@ -2,9 +2,9 @@
 <h3 align="center">Software Development</h3>
 <br />
 
-- 🔭 I'm focused on **backend** development
+- 🔭 I'm focused on **web** development
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **backend development**
 
 - 🦀 I'd like to learn **Rust**
 
