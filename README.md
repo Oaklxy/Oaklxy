@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **backend development**
 
-- 🦀 I'd like to learn **Rust**
+- 🦀 I'd like to learn **rust**
 
 <br />
 <h2 align="center"><strong>Statistics</strong></h2>
