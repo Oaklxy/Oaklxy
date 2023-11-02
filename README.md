@@ -4,7 +4,7 @@
 
 - 🔭 I'm focused on **web** development
 
-- 💬 Ask me about **backend development**
+- 💬 Ask me about **fullstack** development
 
 - 🦀 I'd like to learn **rust**
 
