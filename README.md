@@ -29,7 +29,7 @@
 <h4 align="center"><strong>Frontend Frameworks and Tools</strong></h4>
 
 <p align="center">
-  <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-black?logo=angular&logoColor=EB0127"></a>
+  <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-black?logo=angular&logoColor=E6239D"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-black?logo=react&logoColor=3BB4D5"></a>
   <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-black?logo=redux&logoColor=7248B6"></a>
   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwind-css&logoColor=06B0CF"></a>
