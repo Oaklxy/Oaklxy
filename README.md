@@ -1,12 +1,5 @@
 <h1 align="center">Hi, I'm Jefferson</h1>
 <h3 align="center">Software Development</h3>
-<br />
-
-- 🔭 I'm focused on **web** development
-
-- 💬 Ask me about **fullstack** development
-
-- 🦀 I'd like to learn **rust**
 
 <br />
 <h2 align="center"><strong>Statistics</strong></h2>
