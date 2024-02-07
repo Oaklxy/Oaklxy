@@ -1,7 +1,3 @@
-<h1 align="center">Hi, I'm Jefferson</h1>
-<h3 align="center">Software Development</h3>
-
-<br />
 <h2 align="center"><strong>Statistics</strong></h2>
 <div align="center">
   <img width="270" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeattt&show_icons=true&hide_border=false&locale=en&layout=compact&theme=discord_old_blurple&bg_color=00000000" alt="yeattt" />
