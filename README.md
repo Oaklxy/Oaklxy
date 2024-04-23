@@ -50,12 +50,3 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&logoColor=E84D31"></a>
   <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-black?logo=jest&logoColor=944159"></a>
 </p>
-
-<br />
-
-<h2 align="center"><strong>Statistics</strong></h2>
-<div align="center">
-  <img width="270" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeattt&show_icons=true&hide_border=false&locale=en&layout=compact&theme=discord_old_blurple&bg_color=00000000" alt="yeattt" />
-  <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=yeattt&show_icons=true&locale=en&hide_border=false&theme=discord_old_blurple&bg_color=00000000" alt="yeattt" />
-  <img width="370" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeattt&theme=discord_old_blurple&hide_border=false&background=FFFFFF00" alt="yeattt" />
-</div>
