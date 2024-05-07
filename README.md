@@ -21,10 +21,8 @@
 
 <p align="center">
   <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-black?logo=nestjs&logoColor=D9224C"></a>
-  <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-black?logo=graphql&logoColor=DE33A6"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-black?logo=node.js&logoColor=3F853D"></a>
   <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-black?logo=express&logoColor=474747"></a>
-  <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-black?logo=nginx&logoColor=009137"></a>
 </p>
 
 <h4 align="center"><strong>Databases</strong></h4>
@@ -33,16 +31,9 @@
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=30648D"></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?logo=mongodb&logoColor=4fa74B"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=00738C"></a>
-  <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-black?logo=mariadb&logoColor=BB7357"></a>
 </p>
 
 <h4 align="center"><strong>DevOps</strong></h4>
-
-<p align="center">
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-black?logo=docker&logoColor=0073F4"></a>
-  <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-black?logo=jenkins&logoColor=F3D6BA"></a>
-  <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes&logoColor=0073F4"></a>
-</p>
 
 <h4 align="center"><strong>Extras</strong></h4>
 
