@@ -33,8 +33,6 @@
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=00738C"></a>
 </p>
 
-<h4 align="center"><strong>DevOps</strong></h4>
-
 <h4 align="center"><strong>Extras</strong></h4>
 
 <p align="center">
