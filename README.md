@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=EFD91C"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=2E74C1"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=ED8B00"></a>
 </p>
 
 <h4 align="center"><strong>Frontend Frameworks and Tools</strong></h4>
@@ -21,7 +22,8 @@
 
 <p align="center">
   <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-black?logo=nestjs&logoColor=D9224C"></a>
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-black?logo=node.js&logoColor=3F853D"></a>
+  <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-black?logo=node.js&logoColor=3F853D"></a>
+  <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/SpringBoot-black?logo=Spring&logoColor=6DB33F"></a>
   <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-black?logo=express&logoColor=474747"></a>
 </p>
 
