@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=4EAA25"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=F7DF1E"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=3178C6"></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=ED8B00"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-black?logo=python&logoColor=3776AB"></a>
+  <a href="#"><img alt="Golang" src="https://img.shields.io/badge/Go-black?logo=go&logoColor=2300ADD8"></a>
 </p>
 
 <h4 align="center"><strong>Frontend Frameworks and Tools</strong></h4>
