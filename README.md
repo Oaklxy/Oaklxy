@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-black?&logo=go&logoColor=2300ADD8"></a>
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-black?logo=c%2B%2B&logoColor=045491"></a>
   <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=4EAA25"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=3178C6"></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=ED8B00"></a>
