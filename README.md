@@ -1,4 +1,4 @@
-<div align="center"><h2>About</h2></div>
+<div align="center"><h1>About</h1></div>
 
 <strong>Software</strong> developer with a <strong>fullstack foundation</strong>, specialized in <strong>backend development</strong>, with a passion for <strong>Cybersecurity and Pentesting</strong>, focused on building <strong>scalable, testable and secure solutions</strong> with <strong>NestJS</strong> and <strong>Spring Boot</strong>, using architectures like <strong>Microservices</strong>.
 
