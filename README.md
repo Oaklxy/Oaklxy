@@ -10,4 +10,4 @@ Backend developer with a passion for Cybersecurity and Pentesting, focused on bu
 
 ## 🛠️ Programming languages and Tools
 
-[![](https://skillicons.dev/icons?i=go,typescript,cpp,python,java,react,next,nodejs,nestjs,spring,postgres,mongo,mysql,bash,powershell,visualstudio,vscode,linux,windows,github,docker,jest&theme=dark&perline=11)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=go,typescript,cpp,python,java,react,next,nodejs,nestjs,spring,postgres,mongo,mysql,bash,powershell,linux,git,docker,jest&theme=dark&perline=9)](https://skillicons.dev)
