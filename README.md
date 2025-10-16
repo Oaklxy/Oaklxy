@@ -1,13 +1,14 @@
-## 👤 Me
-Backend developer with a passion for Cybersecurity and Pentesting, focused on building scalable, testable and secure solutions with NestJS and Spring Boot, using architectures like Microservices.
+## `👤 Me`
+Cybersecurity and pentesting enthusiast interested in offensive techniques as malware development/analysis and reverse engineering.
+With a strong knowledge in backend development and a bit of frontend, i'm focused on building scalable, testable and secure solutions using architectures as Microservices.
 
-## 🔬 Current focus
+## `🔬 Current focus`
 
-- 🟥 Interested in red team.
-- 🛠️ Improving my skills in backend development.
-- 🔐 Learning cybersecurity and pentesting.
-- 🦠 Learning about malware creation/analysis and reverse engineering.
+- 🟥 Red Teaming.
+- 🔐 Cybersecurity and Pentesting.
+- 🦠 Malware development/analysis and reverse engineering.
+- 👾 Interested in AI Read Teaming.
 
-## 🛠️ Programming languages and Tools
+## `🛠️ Development`
 
-[![](https://skillicons.dev/icons?i=go,typescript,cpp,python,java,react,next,nodejs,nestjs,spring,postgres,mongo,mysql,bash,powershell,linux,git,docker,jest&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,cs,go,typescript,python,nodejs,nestjs,dotnet,bash,powershell,linux,docker,git&theme=dark)](https://skillicons.dev)
